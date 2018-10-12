@@ -1,0 +1,30 @@
+{
+    "gitbook": "3.2.2",
+    "variables": {
+        "GPOUYTK": "ГПОУ \"Юргинский технологический колледж \""
+    },
+    "plugins": [
+        "-fancybox",
+        "-sharing",
+        "splitter",
+        "theme-gestalt", "-theme-default", "styles-sass-fix"
+    
+    ],
+    "styles": {
+        "website": "styles/website.scss"
+    },
+    "title": "Технология визажа",
+    "author": "Greysoft",
+    "description": "Е.А. Герман. Курс лекций",
+    "language": "ru",
+    "root": ".",
+    "pluginsConfig": {
+        "theme-gestalt": {
+            "logo": "/images/logo.png",			
+            "favicon": "/images/favicon.png",		
+            "baseUrl": null,			
+            "excludeDefaultStyles": false,		
+            "doNotHideChildrenChapters" : false		
+        }
+    }
+}
