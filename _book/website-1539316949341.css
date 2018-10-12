@@ -3177,7 +3177,7 @@ p {
   font-weight: 300;
   font-size: 14px;
   padding-left: 40px !important;
-  background: url(/images/search.png) no-repeat 0 2px !important;
+  background: url(../images/search.png) no-repeat 0 2px !important;
   background-size: 34px 34px !important; }
 
 .book-summary ul.summary li span {

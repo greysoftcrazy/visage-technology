@@ -21,7 +21,7 @@
     "pluginsConfig": {
         "theme-gestalt": {
             "logo": "../images/logo.png",			
-            "favicon": "../images/favicon.png",		
+            "favicon": "../images/favicon.ico",		
             "baseUrl": null,			
             "excludeDefaultStyles": false,		
             "doNotHideChildrenChapters" : false		
