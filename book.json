@@ -20,8 +20,8 @@
     "root": ".",
     "pluginsConfig": {
         "theme-gestalt": {
-            "logo": "/images/logo.png",			
-            "favicon": "/images/favicon.png",		
+            "logo": "images/logo.png",			
+            "favicon": "images/favicon.png",		
             "baseUrl": null,			
             "excludeDefaultStyles": false,		
             "doNotHideChildrenChapters" : false		
